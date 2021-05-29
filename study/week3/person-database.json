@@ -1,1 +1,18 @@
-[["1","2","3","4","5","6","7","8","9","10"],{"name":"11","age":34,"meetups":"12","id":1},{"name":"13","age":35,"meetups":"14","id":2},{"name":"11","age":34,"meetups":"15","id":3},{"name":"13","age":35,"meetups":"16","id":4},{"name":"11","age":34,"meetups":"17","id":5},{"name":"13","age":35,"meetups":"18","id":6},{"name":"11","age":34,"meetups":"19","id":7},{"name":"13","age":35,"meetups":"20","id":8},{"name":"11","age":34,"meetups":"21","id":9},{"name":"13","age":35,"meetups":"22","id":10},"Mert",["23"],"Armagan",["24"],["25"],["26"],["27"],["28"],["29"],["30"],["31"],["32"],{"name":"33","location":"34","attendees":"35"},{"name":"33","location":"34","attendees":"36"},{"name":"33","location":"34","attendees":"37"},{"name":"33","location":"34","attendees":"38"},{"name":"33","location":"34","attendees":"39"},{"name":"33","location":"34","attendees":"40"},{"name":"33","location":"34","attendees":"41"},{"name":"33","location":"34","attendees":"42"},{"name":"33","location":"34","attendees":"43"},{"name":"33","location":"34","attendees":"44"},"Women Techmakers Berlin","Wayfair",["45","46"],["47","48"],["49","50"],["51","52"],["53","54"],["55","56"],["57","58"],["59","60"],["61","62"],["10","63"],{"name":"13","age":35,"meetups":"64"},{"name":"11","age":34,"meetups":"12","id":1},{"name":"13","age":35,"meetups":"14","id":2},{"name":"11","age":34,"meetups":"65","id":1},{"name":"13","age":35,"meetups":"66"},{"name":"11","age":34,"meetups":"15","id":3},{"name":"13","age":35,"meetups":"16","id":4},{"name":"11","age":34,"meetups":"67","id":3},{"name":"13","age":35,"meetups":"68"},{"name":"11","age":34,"meetups":"17","id":5},{"name":"13","age":35,"meetups":"18","id":6},{"name":"11","age":34,"meetups":"69","id":5},{"name":"13","age":35,"meetups":"70"},{"name":"11","age":34,"meetups":"19","id":7},{"name":"13","age":35,"meetups":"20","id":8},{"name":"11","age":34,"meetups":"71","id":7},{"name":"13","age":35,"meetups":"72"},{"name":"11","age":34,"meetups":"21","id":9},{"name":"11","age":34,"meetups":"73","id":9},["23"],["24"],["25"],["26"],["27"],["28"],["29"],["30"],["31"],["32"]]
+[
+    {
+      "name": "Mert",
+      "age": 33,
+      "meetups": [
+        "Women Tech Makers Berlin"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Armagan",
+      "age": 34,
+      "meetups": [
+        "Women Tech Makers Berlin"
+      ],
+      "id": 2
+    }
+  ]

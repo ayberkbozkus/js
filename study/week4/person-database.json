@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Mert",
+    "age": 33,
+    "meetups": [
+      "Women Tech Makers Berlin"
+    ],
+    "id": 1
+  },
+  {
+    "name": "Armagan",
+    "age": 34,
+    "meetups": [
+      "Women Tech Makers Berlin"
+    ],
+    "id": 2
+  },
+  {
+    "name": "Mihri",
+    "age": 32,
+    "meetups": [],
+    "id": 4
+  },
+  {
+    "name": "Omur",
+    "age": 30,
+    "meetups": [],
+    "id": 5
+  }
+]
