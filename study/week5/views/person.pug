@@ -1,0 +1,7 @@
+extends layout
+
+block content
+    h1 The number of people is #{people.length}
+    p1 the first person is #{people[0].name}
+    each person in people 
+        h4 #{person.name} - #{person.age}
