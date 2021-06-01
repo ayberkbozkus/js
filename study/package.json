@@ -18,5 +18,7 @@
     "mongoose-autopopulate": "^0.14.0",
     "pug": "^3.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "ava": "^3.15.0"
+  }
 }

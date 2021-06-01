@@ -1,0 +1,1 @@
+exports.sum = () => 0

@@ -29,4 +29,5 @@
  axios.delete('/person/{personid(string)}').then(console.log)
  axios.post('/meetup', {name: {meetup-name(string)}, location: {meetup-location(string)}}).then(console.log)
  axios.delete('/meetup/{meetupid(string)}').then(console.log)
- axios.post('http://localhost:3000/person/{personid(string)}/meetups', { meetup: {meetupid(string)} }).then(console.log)```
+ axios.post('http://localhost:3000/person/{personid(string)}/meetups', { meetup: {meetupid(string)} }).then(console.log)
+ ```
